@@ -1,0 +1,114 @@
+C:\Users\Elizabeth\Documents\SkelApp\SkelApp\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\Elizabeth\Documents\SkelApp\SkelApp\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\Elizabeth\Documents\SkelApp\SkelApp\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\Elizabeth\Documents\SkelApp\SkelApp\Temp\bin\Debug\Mono.Data.Sqlite.dll
+C:\Users\Elizabeth\Documents\SkelApp\SkelApp\Temp\bin\Debug\nunit.framework.dll
+C:\Users\Elizabeth\Documents\SkelApp\SkelApp\Temp\bin\Debug\System.Data.dll
+C:\Users\Elizabeth\Documents\SkelApp\SkelApp\Temp\bin\Debug\UnityEditor.dll
+C:\Users\Elizabeth\Documents\SkelApp\SkelApp\Temp\bin\Debug\UnityEngine.Analytics.dll
+C:\Users\Elizabeth\Documents\SkelApp\SkelApp\Temp\bin\Debug\UnityEngine.dll
+C:\Users\Elizabeth\Documents\SkelApp\SkelApp\Temp\bin\Debug\UnityEngine.HoloLens.dll
+C:\Users\Elizabeth\Documents\SkelApp\SkelApp\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\Elizabeth\Documents\SkelApp\SkelApp\Temp\bin\Debug\UnityEngine.TestRunner.dll
+C:\Users\Elizabeth\Documents\SkelApp\SkelApp\Temp\bin\Debug\UnityEngine.Timeline.dll
+C:\Users\Elizabeth\Documents\SkelApp\SkelApp\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\Elizabeth\Documents\SkelApp\SkelApp\Temp\bin\Debug\Vuforia.UnityExtensions.dll
+C:\Users\Elizabeth\Documents\SkelApp\SkelApp\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\Elizabeth\Documents\SkelApp\SkelApp\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\Elizabeth\Documents\SkelApp\SkelApp\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\Elizabeth\Documents\SkelApp\SkelApp\Temp\bin\Debug\ExCSS.Unity.dll
+C:\Users\Elizabeth\Documents\SkelApp\SkelApp\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+C:\Users\Elizabeth\Documents\SkelApp\SkelApp\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\Elizabeth\Documents\SkelApp\SkelApp\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\Elizabeth\Documents\SkelApp\SkelApp\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\Elizabeth\Documents\SkelApp\SkelApp\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\Elizabeth\Documents\SkelApp\SkelApp\Temp\bin\Debug\UnityEngine.xml
+C:\Users\Elizabeth\Documents\SkelApp\SkelApp\Temp\bin\Debug\UnityEditor.xml
+C:\Users\Elizabeth\Documents\SkelApp\SkelApp\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\Elizabeth\Documents\SkelApp\SkelApp\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\Elizabeth\Documents\SkelApp\SkelApp\Temp\bin\Debug\UnityEngine.TestRunner.xml
+C:\Users\Elizabeth\Documents\SkelApp\SkelApp\Temp\bin\Debug\nunit.framework.xml
+C:\Users\Elizabeth\Documents\SkelApp\SkelApp\Temp\bin\Debug\UnityEngine.Timeline.xml
+C:\Users\Elizabeth\Documents\SkelApp\SkelApp\Temp\bin\Debug\UnityEngine.Analytics.xml
+C:\Users\Elizabeth\Documents\SkelApp\SkelApp\Temp\bin\Debug\UnityEngine.HoloLens.xml
+C:\Users\Elizabeth\Documents\SkelApp\SkelApp\Temp\bin\Debug\Vuforia.UnityExtensions.xml
+C:\Users\Elizabeth\Documents\SkelApp\SkelApp\obj\Debug\Assembly-CSharp.dll
+C:\Users\Elizabeth\Documents\SkelApp\SkelApp\obj\Debug\Assembly-CSharp.pdb
+E:\Nueva carpeta\BK DELL GLOBANT 29012020 1522\BK DELL GLOBANT 29012020 1522\Downloads Folder\ProjectoEliza - Copy\SkelApp\Temp\bin\Debug\Assembly-CSharp.dll
+E:\Nueva carpeta\BK DELL GLOBANT 29012020 1522\BK DELL GLOBANT 29012020 1522\Downloads Folder\ProjectoEliza - Copy\SkelApp\Temp\bin\Debug\Assembly-CSharp.pdb
+E:\Nueva carpeta\BK DELL GLOBANT 29012020 1522\BK DELL GLOBANT 29012020 1522\Downloads Folder\ProjectoEliza - Copy\SkelApp\Temp\bin\Debug\Mono.Data.dll
+E:\Nueva carpeta\BK DELL GLOBANT 29012020 1522\BK DELL GLOBANT 29012020 1522\Downloads Folder\ProjectoEliza - Copy\SkelApp\Temp\bin\Debug\Mono.Data.Sqlite.dll
+E:\Nueva carpeta\BK DELL GLOBANT 29012020 1522\BK DELL GLOBANT 29012020 1522\Downloads Folder\ProjectoEliza - Copy\SkelApp\Temp\bin\Debug\Mono.Data.SqliteClient.dll
+E:\Nueva carpeta\BK DELL GLOBANT 29012020 1522\BK DELL GLOBANT 29012020 1522\Downloads Folder\ProjectoEliza - Copy\SkelApp\Temp\bin\Debug\nunit.framework.dll
+E:\Nueva carpeta\BK DELL GLOBANT 29012020 1522\BK DELL GLOBANT 29012020 1522\Downloads Folder\ProjectoEliza - Copy\SkelApp\Temp\bin\Debug\System.Data.dll
+E:\Nueva carpeta\BK DELL GLOBANT 29012020 1522\BK DELL GLOBANT 29012020 1522\Downloads Folder\ProjectoEliza - Copy\SkelApp\Temp\bin\Debug\System.EnterpriseServices.dll
+E:\Nueva carpeta\BK DELL GLOBANT 29012020 1522\BK DELL GLOBANT 29012020 1522\Downloads Folder\ProjectoEliza - Copy\SkelApp\Temp\bin\Debug\UnityEditor.dll
+E:\Nueva carpeta\BK DELL GLOBANT 29012020 1522\BK DELL GLOBANT 29012020 1522\Downloads Folder\ProjectoEliza - Copy\SkelApp\Temp\bin\Debug\UnityEngine.Analytics.dll
+E:\Nueva carpeta\BK DELL GLOBANT 29012020 1522\BK DELL GLOBANT 29012020 1522\Downloads Folder\ProjectoEliza - Copy\SkelApp\Temp\bin\Debug\UnityEngine.dll
+E:\Nueva carpeta\BK DELL GLOBANT 29012020 1522\BK DELL GLOBANT 29012020 1522\Downloads Folder\ProjectoEliza - Copy\SkelApp\Temp\bin\Debug\UnityEngine.HoloLens.dll
+E:\Nueva carpeta\BK DELL GLOBANT 29012020 1522\BK DELL GLOBANT 29012020 1522\Downloads Folder\ProjectoEliza - Copy\SkelApp\Temp\bin\Debug\UnityEngine.Networking.dll
+E:\Nueva carpeta\BK DELL GLOBANT 29012020 1522\BK DELL GLOBANT 29012020 1522\Downloads Folder\ProjectoEliza - Copy\SkelApp\Temp\bin\Debug\UnityEngine.TestRunner.dll
+E:\Nueva carpeta\BK DELL GLOBANT 29012020 1522\BK DELL GLOBANT 29012020 1522\Downloads Folder\ProjectoEliza - Copy\SkelApp\Temp\bin\Debug\UnityEngine.Timeline.dll
+E:\Nueva carpeta\BK DELL GLOBANT 29012020 1522\BK DELL GLOBANT 29012020 1522\Downloads Folder\ProjectoEliza - Copy\SkelApp\Temp\bin\Debug\UnityEngine.UI.dll
+E:\Nueva carpeta\BK DELL GLOBANT 29012020 1522\BK DELL GLOBANT 29012020 1522\Downloads Folder\ProjectoEliza - Copy\SkelApp\Temp\bin\Debug\Vuforia.UnityExtensions.dll
+E:\Nueva carpeta\BK DELL GLOBANT 29012020 1522\BK DELL GLOBANT 29012020 1522\Downloads Folder\ProjectoEliza - Copy\SkelApp\Temp\bin\Debug\Mono.Cecil.dll
+E:\Nueva carpeta\BK DELL GLOBANT 29012020 1522\BK DELL GLOBANT 29012020 1522\Downloads Folder\ProjectoEliza - Copy\SkelApp\Temp\bin\Debug\Unity.SerializationLogic.dll
+E:\Nueva carpeta\BK DELL GLOBANT 29012020 1522\BK DELL GLOBANT 29012020 1522\Downloads Folder\ProjectoEliza - Copy\SkelApp\Temp\bin\Debug\Unity.DataContract.dll
+E:\Nueva carpeta\BK DELL GLOBANT 29012020 1522\BK DELL GLOBANT 29012020 1522\Downloads Folder\ProjectoEliza - Copy\SkelApp\Temp\bin\Debug\ExCSS.Unity.dll
+E:\Nueva carpeta\BK DELL GLOBANT 29012020 1522\BK DELL GLOBANT 29012020 1522\Downloads Folder\ProjectoEliza - Copy\SkelApp\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+E:\Nueva carpeta\BK DELL GLOBANT 29012020 1522\BK DELL GLOBANT 29012020 1522\Downloads Folder\ProjectoEliza - Copy\SkelApp\Temp\bin\Debug\Unity.UNetWeaver.dll
+E:\Nueva carpeta\BK DELL GLOBANT 29012020 1522\BK DELL GLOBANT 29012020 1522\Downloads Folder\ProjectoEliza - Copy\SkelApp\Temp\bin\Debug\Unity.CecilTools.dll
+E:\Nueva carpeta\BK DELL GLOBANT 29012020 1522\BK DELL GLOBANT 29012020 1522\Downloads Folder\ProjectoEliza - Copy\SkelApp\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+E:\Nueva carpeta\BK DELL GLOBANT 29012020 1522\BK DELL GLOBANT 29012020 1522\Downloads Folder\ProjectoEliza - Copy\SkelApp\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+E:\Nueva carpeta\BK DELL GLOBANT 29012020 1522\BK DELL GLOBANT 29012020 1522\Downloads Folder\ProjectoEliza - Copy\SkelApp\Temp\bin\Debug\UnityEngine.xml
+E:\Nueva carpeta\BK DELL GLOBANT 29012020 1522\BK DELL GLOBANT 29012020 1522\Downloads Folder\ProjectoEliza - Copy\SkelApp\Temp\bin\Debug\UnityEditor.xml
+E:\Nueva carpeta\BK DELL GLOBANT 29012020 1522\BK DELL GLOBANT 29012020 1522\Downloads Folder\ProjectoEliza - Copy\SkelApp\Temp\bin\Debug\UnityEngine.UI.xml
+E:\Nueva carpeta\BK DELL GLOBANT 29012020 1522\BK DELL GLOBANT 29012020 1522\Downloads Folder\ProjectoEliza - Copy\SkelApp\Temp\bin\Debug\UnityEngine.Networking.xml
+E:\Nueva carpeta\BK DELL GLOBANT 29012020 1522\BK DELL GLOBANT 29012020 1522\Downloads Folder\ProjectoEliza - Copy\SkelApp\Temp\bin\Debug\UnityEngine.TestRunner.xml
+E:\Nueva carpeta\BK DELL GLOBANT 29012020 1522\BK DELL GLOBANT 29012020 1522\Downloads Folder\ProjectoEliza - Copy\SkelApp\Temp\bin\Debug\nunit.framework.xml
+E:\Nueva carpeta\BK DELL GLOBANT 29012020 1522\BK DELL GLOBANT 29012020 1522\Downloads Folder\ProjectoEliza - Copy\SkelApp\Temp\bin\Debug\UnityEngine.Timeline.xml
+E:\Nueva carpeta\BK DELL GLOBANT 29012020 1522\BK DELL GLOBANT 29012020 1522\Downloads Folder\ProjectoEliza - Copy\SkelApp\Temp\bin\Debug\UnityEngine.Analytics.xml
+E:\Nueva carpeta\BK DELL GLOBANT 29012020 1522\BK DELL GLOBANT 29012020 1522\Downloads Folder\ProjectoEliza - Copy\SkelApp\Temp\bin\Debug\UnityEngine.HoloLens.xml
+E:\Nueva carpeta\BK DELL GLOBANT 29012020 1522\BK DELL GLOBANT 29012020 1522\Downloads Folder\ProjectoEliza - Copy\SkelApp\Temp\bin\Debug\Vuforia.UnityExtensions.xml
+E:\Nueva carpeta\BK DELL GLOBANT 29012020 1522\BK DELL GLOBANT 29012020 1522\Downloads Folder\ProjectoEliza - Copy\SkelApp\obj\Debug\Assembly-CSharp.dll
+E:\Nueva carpeta\BK DELL GLOBANT 29012020 1522\BK DELL GLOBANT 29012020 1522\Downloads Folder\ProjectoEliza - Copy\SkelApp\obj\Debug\Assembly-CSharp.pdb
+E:\Nueva carpeta\BK DELL GLOBANT 29012020 1522\BK DELL GLOBANT 29012020 1522\Downloads Folder\ProjectoEliza - Copy\SkelApp\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Skelearn\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Skelearn\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Skelearn\Temp\bin\Debug\Mono.Data.dll
+C:\Skelearn\Temp\bin\Debug\Mono.Data.Sqlite.dll
+C:\Skelearn\Temp\bin\Debug\Mono.Data.SqliteClient.dll
+C:\Skelearn\Temp\bin\Debug\nunit.framework.dll
+C:\Skelearn\Temp\bin\Debug\System.Data.dll
+C:\Skelearn\Temp\bin\Debug\System.EnterpriseServices.dll
+C:\Skelearn\Temp\bin\Debug\UnityEditor.dll
+C:\Skelearn\Temp\bin\Debug\UnityEngine.Analytics.dll
+C:\Skelearn\Temp\bin\Debug\UnityEngine.dll
+C:\Skelearn\Temp\bin\Debug\UnityEngine.HoloLens.dll
+C:\Skelearn\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Skelearn\Temp\bin\Debug\UnityEngine.TestRunner.dll
+C:\Skelearn\Temp\bin\Debug\UnityEngine.Timeline.dll
+C:\Skelearn\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Skelearn\Temp\bin\Debug\Vuforia.UnityExtensions.dll
+C:\Skelearn\Temp\bin\Debug\Mono.Cecil.dll
+C:\Skelearn\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Skelearn\Temp\bin\Debug\Unity.DataContract.dll
+C:\Skelearn\Temp\bin\Debug\ExCSS.Unity.dll
+C:\Skelearn\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+C:\Skelearn\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Skelearn\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Skelearn\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Skelearn\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Skelearn\Temp\bin\Debug\UnityEngine.xml
+C:\Skelearn\Temp\bin\Debug\UnityEditor.xml
+C:\Skelearn\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Skelearn\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Skelearn\Temp\bin\Debug\UnityEngine.TestRunner.xml
+C:\Skelearn\Temp\bin\Debug\nunit.framework.xml
+C:\Skelearn\Temp\bin\Debug\UnityEngine.Timeline.xml
+C:\Skelearn\Temp\bin\Debug\UnityEngine.Analytics.xml
+C:\Skelearn\Temp\bin\Debug\UnityEngine.HoloLens.xml
+C:\Skelearn\Temp\bin\Debug\Vuforia.UnityExtensions.xml
+C:\Skelearn\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Skelearn\obj\Debug\Assembly-CSharp.dll
+C:\Skelearn\obj\Debug\Assembly-CSharp.pdb

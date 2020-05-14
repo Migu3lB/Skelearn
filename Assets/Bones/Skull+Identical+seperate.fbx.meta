@@ -1,0 +1,275 @@
+fileFormatVersion: 2
+guid: fb4ba8bd1f36f9a41810abca3386612e
+timeCreated: 1585584572
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: Ethmoid Bone
+    100002: Ethmoid Bone_MeshPart0
+    100004: Ethmoid Bone_MeshPart1
+    100006: Ethmoid Bone_MeshPart2
+    100008: Frontal Bone
+    100010: Frontal Bone_MeshPart0
+    100012: Frontal Bone_MeshPart1
+    100014: Frontal Bone_MeshPart2
+    100016: Inferior Nasal Concha Bone
+    100018: Lacrimal Bone
+    100020: Left Parietal Bone
+    100022: Left Parietal Bone_MeshPart0
+    100024: Left Parietal Bone_MeshPart1
+    100026: Lower Teeth
+    100028: Mandible bone
+    100030: Mandible bone_MeshPart0
+    100032: Mandible bone_MeshPart1
+    100034: Maxillary Bone
+    100036: Maxillary Bone_MeshPart0
+    100038: Maxillary Bone_MeshPart1
+    100040: Nasal Bone
+    100042: Occipial Bone
+    100044: Occipial Bone_MeshPart0
+    100046: Occipial Bone_MeshPart1
+    100048: Occipial Bone_MeshPart2
+    100050: Palatine Bone
+    100052: Palatine Bone_MeshPart0
+    100054: Palatine Bone_MeshPart1
+    100056: Right Parietal Bone
+    100058: Right Parietal Bone_MeshPart0
+    100060: Right Parietal Bone_MeshPart1
+    100062: //RootNode
+    100064: Sphenoid Bone
+    100066: Sphenoid Bone_MeshPart0
+    100068: Sphenoid Bone_MeshPart1
+    100070: Sphenoid Bone_MeshPart2
+    100072: Sphenoid Bone_MeshPart3
+    100074: Temporal Bone
+    100076: Temporal Bone_MeshPart0
+    100078: Temporal Bone_MeshPart1
+    100080: Temporal Bone_MeshPart2
+    100082: Temporal Bone_MeshPart3
+    100084: Upper teeth
+    100086: Vomer Bone
+    100088: Zygomatic Bone
+    400000: Ethmoid Bone
+    400002: Ethmoid Bone_MeshPart0
+    400004: Ethmoid Bone_MeshPart1
+    400006: Ethmoid Bone_MeshPart2
+    400008: Frontal Bone
+    400010: Frontal Bone_MeshPart0
+    400012: Frontal Bone_MeshPart1
+    400014: Frontal Bone_MeshPart2
+    400016: Inferior Nasal Concha Bone
+    400018: Lacrimal Bone
+    400020: Left Parietal Bone
+    400022: Left Parietal Bone_MeshPart0
+    400024: Left Parietal Bone_MeshPart1
+    400026: Lower Teeth
+    400028: Mandible bone
+    400030: Mandible bone_MeshPart0
+    400032: Mandible bone_MeshPart1
+    400034: Maxillary Bone
+    400036: Maxillary Bone_MeshPart0
+    400038: Maxillary Bone_MeshPart1
+    400040: Nasal Bone
+    400042: Occipial Bone
+    400044: Occipial Bone_MeshPart0
+    400046: Occipial Bone_MeshPart1
+    400048: Occipial Bone_MeshPart2
+    400050: Palatine Bone
+    400052: Palatine Bone_MeshPart0
+    400054: Palatine Bone_MeshPart1
+    400056: Right Parietal Bone
+    400058: Right Parietal Bone_MeshPart0
+    400060: Right Parietal Bone_MeshPart1
+    400062: //RootNode
+    400064: Sphenoid Bone
+    400066: Sphenoid Bone_MeshPart0
+    400068: Sphenoid Bone_MeshPart1
+    400070: Sphenoid Bone_MeshPart2
+    400072: Sphenoid Bone_MeshPart3
+    400074: Temporal Bone
+    400076: Temporal Bone_MeshPart0
+    400078: Temporal Bone_MeshPart1
+    400080: Temporal Bone_MeshPart2
+    400082: Temporal Bone_MeshPart3
+    400084: Upper teeth
+    400086: Vomer Bone
+    400088: Zygomatic Bone
+    2300000: Ethmoid Bone_MeshPart0
+    2300002: Ethmoid Bone_MeshPart1
+    2300004: Ethmoid Bone_MeshPart2
+    2300006: Frontal Bone_MeshPart0
+    2300008: Frontal Bone_MeshPart1
+    2300010: Frontal Bone_MeshPart2
+    2300012: Inferior Nasal Concha Bone
+    2300014: Lacrimal Bone
+    2300016: Left Parietal Bone_MeshPart0
+    2300018: Left Parietal Bone_MeshPart1
+    2300020: Lower Teeth
+    2300022: Mandible bone_MeshPart0
+    2300024: Mandible bone_MeshPart1
+    2300026: Maxillary Bone_MeshPart0
+    2300028: Maxillary Bone_MeshPart1
+    2300030: Nasal Bone
+    2300032: Occipial Bone_MeshPart0
+    2300034: Occipial Bone_MeshPart1
+    2300036: Occipial Bone_MeshPart2
+    2300038: Palatine Bone_MeshPart0
+    2300040: Palatine Bone_MeshPart1
+    2300042: Right Parietal Bone_MeshPart0
+    2300044: Right Parietal Bone_MeshPart1
+    2300046: Sphenoid Bone_MeshPart0
+    2300048: Sphenoid Bone_MeshPart1
+    2300050: Sphenoid Bone_MeshPart2
+    2300052: Sphenoid Bone_MeshPart3
+    2300054: Temporal Bone_MeshPart0
+    2300056: Temporal Bone_MeshPart1
+    2300058: Temporal Bone_MeshPart2
+    2300060: Temporal Bone_MeshPart3
+    2300062: Upper teeth
+    2300064: Vomer Bone
+    2300066: Zygomatic Bone
+    3300000: Ethmoid Bone_MeshPart0
+    3300002: Ethmoid Bone_MeshPart1
+    3300004: Ethmoid Bone_MeshPart2
+    3300006: Frontal Bone_MeshPart0
+    3300008: Frontal Bone_MeshPart1
+    3300010: Frontal Bone_MeshPart2
+    3300012: Inferior Nasal Concha Bone
+    3300014: Lacrimal Bone
+    3300016: Left Parietal Bone_MeshPart0
+    3300018: Left Parietal Bone_MeshPart1
+    3300020: Lower Teeth
+    3300022: Mandible bone_MeshPart0
+    3300024: Mandible bone_MeshPart1
+    3300026: Maxillary Bone_MeshPart0
+    3300028: Maxillary Bone_MeshPart1
+    3300030: Nasal Bone
+    3300032: Occipial Bone_MeshPart0
+    3300034: Occipial Bone_MeshPart1
+    3300036: Occipial Bone_MeshPart2
+    3300038: Palatine Bone_MeshPart0
+    3300040: Palatine Bone_MeshPart1
+    3300042: Right Parietal Bone_MeshPart0
+    3300044: Right Parietal Bone_MeshPart1
+    3300046: Sphenoid Bone_MeshPart0
+    3300048: Sphenoid Bone_MeshPart1
+    3300050: Sphenoid Bone_MeshPart2
+    3300052: Sphenoid Bone_MeshPart3
+    3300054: Temporal Bone_MeshPart0
+    3300056: Temporal Bone_MeshPart1
+    3300058: Temporal Bone_MeshPart2
+    3300060: Temporal Bone_MeshPart3
+    3300062: Upper teeth
+    3300064: Vomer Bone
+    3300066: Zygomatic Bone
+    4300000: Zygomatic Bone
+    4300002: Vomer Bone
+    4300004: Temporal Bone_MeshPart0
+    4300006: Temporal Bone_MeshPart1
+    4300008: Temporal Bone_MeshPart2
+    4300010: Temporal Bone_MeshPart3
+    4300012: Lower Teeth
+    4300014: Sphenoid Bone_MeshPart0
+    4300016: Sphenoid Bone_MeshPart1
+    4300018: Sphenoid Bone_MeshPart2
+    4300020: Sphenoid Bone_MeshPart3
+    4300022: Left Parietal Bone_MeshPart0
+    4300024: Left Parietal Bone_MeshPart1
+    4300026: Right Parietal Bone_MeshPart0
+    4300028: Right Parietal Bone_MeshPart1
+    4300030: Palatine Bone_MeshPart0
+    4300032: Palatine Bone_MeshPart1
+    4300034: Occipial Bone_MeshPart0
+    4300036: Occipial Bone_MeshPart1
+    4300038: Occipial Bone_MeshPart2
+    4300040: Nasal Bone
+    4300042: Maxillary Bone_MeshPart0
+    4300044: Maxillary Bone_MeshPart1
+    4300046: Mandible bone_MeshPart0
+    4300048: Mandible bone_MeshPart1
+    4300050: Lacrimal Bone
+    4300052: Inferior Nasal Concha Bone
+    4300054: Frontal Bone_MeshPart0
+    4300056: Frontal Bone_MeshPart1
+    4300058: Frontal Bone_MeshPart2
+    4300060: Ethmoid Bone_MeshPart0
+    4300062: Ethmoid Bone_MeshPart1
+    4300064: Ethmoid Bone_MeshPart2
+    4300066: Upper teeth
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
